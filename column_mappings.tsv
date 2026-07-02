@@ -1,0 +1,21 @@
+telco.csv	WA_Fn-UseC_-Telco-Customer-Churn.csv
+Customer ID	customerID
+Gender	gender
+Senior Citizen	SeniorCitizen
+Married	Partner
+Dependents	Dependents
+Tenure in Months	tenure
+Phone Service	PhoneService
+Multiple Lines	MultipleLines
+Internet Type	InternetService
+Online Security	OnlineSecurity
+Online Backup	OnlineBackup
+Device Protection Plan	DeviceProtection
+Streaming TV	StreamingTV
+Streaming Movies	StreamingMovies
+Contract	Contract
+Paperless Billing	PaperlessBilling
+Payment Method	PaymentMethod
+Monthly Charge	MonthlyCharges
+Total Charges	TotalCharges
+Churn Label	Churn
