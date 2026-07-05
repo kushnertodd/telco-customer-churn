@@ -9,6 +9,7 @@ cleaned_data.csv
 cleaned_customer_churn.csv
 fact_pelanggan_prediksi.csv
 telco_churn_cleaned.csv
+telco.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
