@@ -1,0 +1,38 @@
+experiment 1:
+- combine StreamingTV_Yes and Dependents_Yes
+- plot
+- mutual information
+- drop low impact columns
+- LogisticRegression
+
+experiment 2:
+- test cross tab binary feature probabilties
+binary_features 
+    SeniorCitizen
+    Partner
+    Dependents
+    PhoneService
+    PaperlessBilling
+internet_features 
+    OnlineSecurity
+    OnlineBackup
+    DeviceProtection
+    TechSupport
+    StreamingTV
+    StreamingMovies
+
+experiment 3:
+- create combinations of binary feature probabilties
+binary_features 
+    SeniorCitizen
+    Partner
+    Dependents
+    PhoneService
+    PaperlessBilling
+internet_features 
+    OnlineSecurity
+    OnlineBackup
+    DeviceProtection
+    TechSupport
+    StreamingTV
+    StreamingMovies
