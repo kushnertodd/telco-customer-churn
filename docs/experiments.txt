@@ -130,3 +130,6 @@ for feature1 in mapped_features:
 # 2. Concatenate the new columns to the DataFrame all at once
 #df = pd.concat([df, pd.DataFrame(new_columns)], axis=1)
 print(df.head())
+
+- experiment 9
+eliminated redundant 'no phone service' and 'no internet service' feature values.
